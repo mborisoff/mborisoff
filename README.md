@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Miroslav Borisov, from Dryanovo - Bulgaria
+- 👀 I’m interested in English football
+- 🌱 I’m currently learning Python software language in SoftUni. Looking to be part of teams that develop business software, erp and warehouse programs
+- 📫 You can get in touch with me by email at: miroslav.borisov@mail.bg and [Facebook](https://www.facebook.com/profile.php?id=100014865486818)
+- ⚡ Fun fact: Have a small garden where I grow organic vegetables and fruits for personal consumption
